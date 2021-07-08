@@ -13,7 +13,7 @@ Furthermore a software has to be installed to run and execute an [iPython Notebo
 I use [Anaconda](https://www.continuum.io/downloads) to do so.
 
 ### Project Motivation
-This project is part of the Data Science Nanodegree I am doing at Udacity. I chose the dataset "Seattle Airbnb Open Data" as part of a submission to apply the concepts I learned. The aim of the small analysis was to find out which aspects lead to high prices for flats in Seattle.
+This project is part of the Data Science Nanodegree I am doing at Udacity. I chose the dataset "Seattle Airbnb Open Data" as part of a submission to apply the concepts I learned. The aim of the small analysis was to find out which aspects lead to high and low prices for appartments in Seattle.
 
 ### Files 
 Included is the code that I wrote in python `Data Analysis.ipynb`, and the `README.md` file, that you are reading right now.
