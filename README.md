@@ -14,6 +14,7 @@ This is the Link to my [Blog Post](https://nikessl.medium.com/dont-rent-loft-apa
 - [seaborn](https://seaborn.pydata.org/)
 
 Furthermore a software has to be installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html) 
+
 I use [Anaconda](https://www.continuum.io/downloads) to do so.
 
 ### Project Motivation
