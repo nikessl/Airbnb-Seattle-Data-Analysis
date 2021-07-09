@@ -37,5 +37,5 @@ The main results of the analysis are:
 1. Prices for Airbnb apartments are most expensive in the summer months (June, July & August)
 2. The area that is mostly affected by the seasonal effect on prices is Downtown Seattle, while all of the areas are more expensive over summer
 3. The location of an apartment is the most important aspect for its price
-4. The fact that an apartment is a "Loft" has the highest impact on prices in the category "property style"
+4. The fact that an apartment is a "Loft" has the highest impact on prices in the category "property type"
 5. The more bedrooms, bathrooms and number of accommodates an apartment has the more expensive it is
