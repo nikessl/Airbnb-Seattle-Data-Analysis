@@ -1,4 +1,7 @@
 # Airbnb Seattle Data Analysis
+
+### Blog Post
+This is the Link to my [Blog Post](https://nikessl.medium.com/dont-rent-loft-apartments-at-summer-time-in-downtown-seattle-ae773ee8bdfe)
  
 ### Install
 
