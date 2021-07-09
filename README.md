@@ -23,3 +23,18 @@ The data used in this analysis is real Airbnb data public available on [kaggle.c
 
 ### Run
 You can run the code by downloading it from this repository, opening it in your notebook. In order to run the code you will need to download the data from [kaggle.com](https://www.kaggle.com/airbnb/seattle) and save it into the same folder, the code file is in. You can then just simply run the code.
+
+### Questions
+
+The questions addressed in this analysis are:
+1. In which season do prices in Seattle climax
+2. Which areas of the city are most affected by the price spike?
+3. Whcih attributes are the most important to predict prices?
+
+### Results
+The main results of the analysis are:
+1. Prices for Airbnb apartments are most expensive in the summer months (June, July & August)
+2. The area that is mostly affected by the seasonal effect on prices is Downtown Seattle, while all of the areas are more expensive over summer
+3. The location of an apartment is the most important aspect for its price
+4. The fact that an apartment is a "Loft" has the highest impact on prices in the category "property style"
+5. The more bedrooms, bathrooms and number of accommodates an apartment has the more expensive it is
