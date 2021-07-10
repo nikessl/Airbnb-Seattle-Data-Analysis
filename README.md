@@ -34,7 +34,7 @@ You can run the code by downloading it from this repository, opening it in your 
 The questions addressed in this analysis are:
 1. In which season do prices in Seattle climax?
 2. Which areas of the city are most affected by the price spike?
-3. Which attributes are the most important to predict prices?
+3. Which attributes have the biggest impact on prices?
 
 ### Results
 The main results of the analysis are:
