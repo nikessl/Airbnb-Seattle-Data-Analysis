@@ -39,9 +39,9 @@ The main results of the analysis are:
 4. The fact that an apartment is a "Loft" has the highest impact on prices in the category "property type"
 5. The more bedrooms, bathrooms and number of accommodates an apartment has the more expensive it is
 
-### Blog Post
+#### Blog Post
 This is the Link to my [Blog Post](https://nikessl.medium.com/dont-rent-loft-apartments-at-summer-time-in-downtown-seattle-ae773ee8bdfe) where I present the results of the analysis.
  
- ## Acknowledgements
+ ### Acknowledgements
 Thanks to Airbnb and kaggle for providing the dataset I used in this analysis. Also, thanks to the Udacity team and mentors for providing me with knowledgeand helpful tips to do this little project. The feedback on how I should structure the code was particularly helpful.
  
